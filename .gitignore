@@ -1,0 +1,14 @@
+# Ignore all files with the .log extension
+*.log
+
+# Ignore the 'node_modules' directory
+node_modules/
+
+# Ignore a specific file named 'config.local.js'
+config.local.js
+
+# Ignore all files in the 'build' directory
+build/*
+
+# Ignore files starting with a dot (hidden files on Unix-like systems)
+.*
